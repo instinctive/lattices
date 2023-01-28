@@ -34,6 +34,7 @@ tested-with:
    || ==9.0.2
    || ==9.2.5
    || ==9.4.4
+   || ==9.6.1
 
 synopsis:
   Fine-grained library for constructing and manipulating lattices
